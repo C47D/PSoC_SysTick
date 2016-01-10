@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspc" version="5" xml_contents_version="3" name="SysTick_test" persistent="" platform="NOT_USED">
+<current_project name=".\SysTick_5LP.cydsn\SysTick_5LP.cyprj" />
+<wrkspc_folders />
+<files />
+<projects>
+<v>.\SysTick_5LP.cydsn\SysTick_5LP.cyprj</v>
+<v>.\SysTick_4.cydsn\SysTick_4.cyprj</v>
+</projects>
+<workspace_id v="11ed9423-fab5-4458-96a2-c2f5a2e6f2a5" />
+<WriteAppVersionLastSavedWith v="3.3.0.410" />
+<WriteAppMarketingVersionLastSavedWith v="3.3 CP1" />
+<CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjDependencyList" version="4">
+<wrkspc_dependencies>
+<wrkspc_dependency project="SysTick_5LP.cydsn\SysTick_5LP.cyprj" dependency="..\..\AppNotes\CypressSemiconductors\Components\RFMS_CORDIC_v2\RFMS_CORDIC_v2_0.cylib\RFMS_CORDIC_v2_0.cyprj" />
+<wrkspc_dependency project="SysTick_5LP.cydsn\SysTick_5LP.cyprj" dependency="..\..\AppNotes\CypressSemiconductors\Components\StripLightLib1_3.cylib\StripLightLib1_3.cyprj" />
+<wrkspc_dependency project="SysTick_5LP.cydsn\SysTick_5LP.cyprj" dependency="..\External_Components\External_Components.cylib\External_Components.cyprj" />
+<wrkspc_dependency project="SysTick_5LP.cydsn\SysTick_5LP.cyprj" dependency="..\..\AppNotes\CypressSemiconductors\Components\CharLCDmp_Demo3\CharLCDmpLib.cylib\CharLCDmpLib.cyprj" />
+<wrkspc_dependency project="SysTick_4.cydsn\SysTick_4.cyprj" dependency="..\..\AppNotes\CypressSemiconductors\Components\RFMS_CORDIC_v2\RFMS_CORDIC_v2_0.cylib\RFMS_CORDIC_v2_0.cyprj" />
+<wrkspc_dependency project="SysTick_4.cydsn\SysTick_4.cyprj" dependency="..\..\AppNotes\CypressSemiconductors\Components\StripLightLib1_3.cylib\StripLightLib1_3.cyprj" />
+<wrkspc_dependency project="SysTick_4.cydsn\SysTick_4.cyprj" dependency="..\External_Components\External_Components.cylib\External_Components.cyprj" />
+<wrkspc_dependency project="SysTick_4.cydsn\SysTick_4.cyprj" dependency="..\..\AppNotes\CypressSemiconductors\Components\CharLCDmp_Demo3\CharLCDmpLib.cylib\CharLCDmpLib.cyprj" />
+</wrkspc_dependencies>
+</CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
+<CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyIgnoredSystemDepsList" version="1">
+<wrkspc_dependencies />
+</CyGuid_63b68103-67f5-4406-8da6-5c8625765b82>
+</CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd>
+</CyXmlSerializer>

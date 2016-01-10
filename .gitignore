@@ -1,0 +1,17 @@
+# Ignore PSoC Creator temp and user files
+
+# Ignore User Workspace
+*.cywrk.Xwx47
+
+# Project optional files
+SysTick_4.cydsn/codegentemp/
+SysTick_4.cydsn/Generated_Source/
+SysTick_4.cydsn/Export/
+SysTick_4.cydsn/CortexM3/
+SysTick_4.cydsn/*.cyprj.Xwx47
+
+SysTick_5LP.cydsn/codegentemp/
+SysTick_5LP.cydsn/Generated_Source/
+SysTick_5LP.cydsn/Export/
+SysTick_5LP.cydsn/CortexM3/
+SysTick_5LP.cydsn/*.cyprj.Xwx47
